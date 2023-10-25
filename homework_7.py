@@ -31,7 +31,7 @@ Example, processing lines of a text file until the end of the file is reached.
 """
 
 """ Discussion Question 2 (all sub-problems) (pg. 278/279) """
-
+# You will find the truth table called "homework_7_truthtable" attached in this respository
 
 """ Discussion Question 3 (a,c) (pg. 279) """
 #a
